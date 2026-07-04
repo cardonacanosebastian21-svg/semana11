@@ -1,0 +1,6 @@
+La interfaz se basará en un diseño limpio y funcional:
+
+1. Vista de listado: Se mostrarán las causas disponibles con una tarjeta que incluye el título y la descripción corta.
+2. Interacción: Cada tarjeta incluirá un botón claro de "Apoyar" y un contador dinámico que muestra el número total de apoyos recibidos por esa causa.
+3. Formulario: Existirá una sección privada visible solo para usuarios autenticados, que permitirá crear una nueva iniciativa con campos para título, descripción y fecha, asegurando una validación previa antes de guardar.
+4. Seguridad: La interfaz ocultará cualquier dato privado de los usuarios, mostrando solo un alias o identificador público.
