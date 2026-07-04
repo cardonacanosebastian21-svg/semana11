@@ -5,7 +5,8 @@ Campos principales:
 - descripcion_corta
 - fecha_publicacion
 - estado (pendiente/aprobada)
-Propósito: Registrar las propuestas o necesidades que los ciudadanos desean visibilizar en la plataforma.
+Propósito: Registrar las propuestas o necesidades que los ciudadanos desean 
+visibilizar en la plataforma.
 
 Entidad: Usuario
 Campos principales:
@@ -13,4 +14,5 @@ Campos principales:
 - nombre_usuario
 - correo_anonimizado
 - rol (participante/admin)
-Propósito: Gestionar los accesos, autenticación y permisos dentro del sistema para garantizar el control.
+Propósito: Gestionar los accesos, autenticación y permisos dentro del sistema 
+para garantizar el control.
